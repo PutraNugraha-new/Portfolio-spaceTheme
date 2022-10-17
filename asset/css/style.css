@@ -47,25 +47,38 @@
 /* about */
 .about {
     background-color: var(--mainColor);
-    min-height: 50vh;
+    min-height: 400px;
     text-align: center;
     color: var(--secondColor);
     font-family:'Space Mono', monospace ;
 }
-.about h1{
+h1{
     margin-top: 50px;
 }
-.about hr {
+hr {
     background-color: var(--accsentColor);
     width: 15%;
     margin: 0 auto 20px auto;
-    height: 3px;
+    height: 4px;
     border-style: solid;
 }
 .about h3 {
     font-size: 1.2rem;
     color: var(--accsentColor);
     margin-bottom: 30px;
+}
+/* endabout */
+/* skill */
+.skill {
+    background-color: #4C3873;
+    min-height: 70vh;
+    text-align: center;
+    color: var(--secondColor);
+    font-family:'Space Mono', monospace ;
+}
+.skill svg{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 
