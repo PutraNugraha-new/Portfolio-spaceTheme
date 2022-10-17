@@ -43,6 +43,30 @@
     margin-right: 1rem;
     margin-bottom: 1rem;
 }
+/* end home */
+/* about */
+.about {
+    background-color: var(--mainColor);
+    min-height: 50vh;
+    text-align: center;
+    color: var(--secondColor);
+    font-family:'Space Mono', monospace ;
+}
+.about h1{
+    margin-top: 50px;
+}
+.about hr {
+    background-color: var(--accsentColor);
+    width: 15%;
+    margin: 0 auto 20px auto;
+    height: 3px;
+    border-style: solid;
+}
+.about h3 {
+    font-size: 1.2rem;
+    color: var(--accsentColor);
+    margin-bottom: 30px;
+}
 
 
 
