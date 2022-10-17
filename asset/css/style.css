@@ -92,10 +92,22 @@ hr {
     background-color: var(--mainColor);
     border-radius: 10px;
 }
-#projek {
-    
-}
 /* endportfolio */
+/* footer */
+.footer {
+    height: 50vh;
+    background-color: var(--mainColor);
+    text-align: center;
+    font-family: 'Space Mono', monospacea;
+    color: var(--secondColor);
+}
+.footer img {
+    width: 50%;
+}
+.footer h3 {
+    font-size: 1rem;
+}
+/* endfooter */
 
 
 
